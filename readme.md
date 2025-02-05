@@ -37,7 +37,7 @@ GROQ_API_KEY=your_api_key_here
 
 3. Run the game:
 ```bash
-python adventure_game.py
+python game.py
 ```
 
 ## 🎯 How to Play
